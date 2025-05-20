@@ -1,0 +1,6 @@
+geopandas
+folium
+streamlit_folium
+shapely
+numpy
+pyarrow
